@@ -2,8 +2,7 @@
 //  Dog.m
 //  RuntimeDemo
 //
-//  Created by luckyBoy on 2021/2/3.
-//
+
 
 #import "Dog.h"
 #import <objc/runtime.h>
