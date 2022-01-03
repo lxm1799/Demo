@@ -9,7 +9,7 @@
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
--(void)test;
+
 
 @end
 
