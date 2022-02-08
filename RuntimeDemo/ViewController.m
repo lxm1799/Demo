@@ -20,7 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-//    [self test1];
+    [self test1];
     [self creatTestClass];
 }
 
